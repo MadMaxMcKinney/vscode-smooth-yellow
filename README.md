@@ -17,4 +17,4 @@ If there's missing syntax or improvements to be made let me know or make a pull 
 Future features:
 * Workbench theming (Once the 1.11+ workbench theming API is finished)
 
-![screenshot](smooth-yellow-theme-screenshot.png)
+![screenshot](smooth-yellow-screenshot.png)
