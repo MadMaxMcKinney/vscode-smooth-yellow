@@ -226,7 +226,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFC107</string>
+				<string>#FD971F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -234,6 +234,19 @@
 			<string>Tag attribute</string>
 			<key>scope</key>
 			<string>meta.function-call.php</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FD971F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag attribute</string>
+			<key>scope</key>
+			<string>punctuation.definition.heading.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>

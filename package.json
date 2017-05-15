@@ -5,7 +5,7 @@
     "version": "1.10.0",
     "publisher": "maxmckinney",
     "engines": {
-        "vscode": "^1.10.0"
+        "vscode": "^1.11.0"
     },
     "icon": "SmoothYellow-Thumb.png",
     "galleryBanner": {
