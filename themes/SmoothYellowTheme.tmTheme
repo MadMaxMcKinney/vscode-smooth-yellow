@@ -218,6 +218,32 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Tag attribute</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.begin.metatag.php</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFC107</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag attribute</string>
+			<key>scope</key>
+			<string>meta.function-call.php</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFC107</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Library function</string>
 			<key>scope</key>
 			<string>support.function</string>

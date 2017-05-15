@@ -2,7 +2,7 @@
     "name": "theme-smooth-yellow",
     "displayName": "Smooth Yellow Theme",
     "description": "Visual Studio code syntax theme featuring a smooth golden yellow with a contrasting dark background.",
-    "version": "1.7.0",
+    "version": "1.9.0",
     "publisher": "maxmckinney",
     "engines": {
         "vscode": "^1.10.0"
